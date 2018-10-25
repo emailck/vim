@@ -4,3 +4,4 @@ vim-airline-themes
 vim-fugitive
 vim-gitgutter
 vim-cpp-enhanced-highlight
+auto-pairs
